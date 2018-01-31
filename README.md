@@ -1,3 +1,27 @@
+#Despliegue de NodePop API (Curso DevOps) Mobile Bootcamp VI
+
+
+
+##Ejercicio 1
+
+**URL de acceso al API REST**
+
+https://nodepop.primarycode.net/apiv1
+
+**URL de acceso al elemento estático servido directamente por nginx**
+
+https://nodepop.primarycode.net/public/droids.jpg
+
+Aunque no se solictaba en la práctica se realizado la configuración del certificado SSL para securizar la conexión
+
+##Ejercicio 2
+
+**URL de acceso de página de plantilla de StartBootstrap.com alojada en el mismo servidor**
+
+http://54.156.21.144
+
+Se ha tenido que mantener el puerto 80 abierto para poder seguir dando servicio por IP publica directa, sin estar asociada a un dominio.
+
 # Manual de uso de API REST NodePop 
 
 ## Consideraciones previas
