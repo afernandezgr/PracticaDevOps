@@ -1,8 +1,8 @@
-#Despliegue de NodePop API (Curso DevOps) Mobile Bootcamp VI#
+# Despliegue de NodePop API (Curso DevOps) Mobile Bootcamp VI
 
 
 
-##Ejercicio 1##
+## Ejercicio 1 
 
 **URL de acceso al API REST**
 
@@ -14,7 +14,7 @@ https://nodepop.primarycode.net/public/droids.jpg
 
 Aunque no se solictaba en la práctica se realizado la configuración del certificado SSL para securizar la conexión
 
-##Ejercicio 2##
+## Ejercicio 2
 
 **URL de acceso de página de plantilla de StartBootstrap.com alojada en el mismo servidor**
 
